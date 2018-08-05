@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/displayReceipt"
+        android:title="@string/displayReceipt"
+        app:showAsAction="never">
+    </item>
+
+    <item
+        android:id="@+id/displayTotals"
+        android:title="@string/displayTotals"
+        app:showAsAction="never">
+    </item>
+
+
+
+</menu>

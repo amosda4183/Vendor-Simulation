@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">SterlingSilver</string>
+    <string name="date">Date</string>
+    <string name="name">Name</string>
+    <string name="cardType">Credit Card Type</string>
+    <string name="cardNumber">Card Number</string>
+    <string name="calculate">Calculate</string>
+    <string name="clear">Clear</string>
+    <string name="silver">Silver Jewelry</string>
+    <string name="visaRad">Visa</string>
+    <string name="mastercard">Mastercard</string>
+    <string name="amex">American Express</string>
+    <string name="chooseItems">Number of Items:</string>
+    <string name="grouponType">Groupon Code:</string>
+
+    <string-array name="numberOfItems">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+
+    <string-array name="grouponCode">
+        <item>Choose Groupon Code</item>
+        <item>Sterling2018(1 item)</item>
+        <item>Silver2018(2 items)</item>
+    </string-array>
+    <string name="displayReceipt">Display Receipt</string>
+    <string name="displayTotals">Display Totals</string>
+    <string name="placeholder">Display goes here</string>
+
+
+</resources>
